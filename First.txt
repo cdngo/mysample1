@@ -1,3 +1,7 @@
 This is initial test file
 
+<<<<<<< HEAD
 Added a line
+=======
+Modified test file while in branch
+>>>>>>> mylogin_branch
